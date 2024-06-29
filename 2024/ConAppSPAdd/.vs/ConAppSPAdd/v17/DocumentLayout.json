@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\other\\2024\\aMS2024\\ConAppSPAdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1326BBEB-BC71-4CBB-8FCB-EB110D64CD97}|ConAppSPAdd\\ConAppSPAdd.csproj|c:\\test\\other\\2024\\ams2024\\conappspadd\\conappspadd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1326BBEB-BC71-4CBB-8FCB-EB110D64CD97}|ConAppSPAdd\\ConAppSPAdd.csproj|solutionrelative:conappspadd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\test\\other\\2024\\aMS2024\\ConAppSPAdd\\ConAppSPAdd\\Program.cs",
+              "RelativeDocumentMoniker": "ConAppSPAdd\\Program.cs",
+              "ToolTip": "C:\\test\\other\\2024\\aMS2024\\ConAppSPAdd\\ConAppSPAdd\\Program.cs",
+              "RelativeToolTip": "ConAppSPAdd\\Program.cs",
+              "ViewState": "AQIAAC8AAAAANDMzMzMKwEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:18:52.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
